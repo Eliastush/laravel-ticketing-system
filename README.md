@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
@@ -43,7 +43,7 @@ This project is **free to use** and open-source. Feel free to contribute or modi
 ## Screenshot  
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot" alt="Project Screenshot">
+  <img src="screenshot.png?text=Project+Screenshot" alt="Project Screenshot">
 </p>
 
 ---
@@ -52,7 +52,7 @@ This project is **free to use** and open-source. Feel free to contribute or modi
 
 Clone the repository:  
 ```sh
-git clone https://github.com/your-username/ticketing-system.git
+git clone https://github.com/Eliastush/ticketing-system.git
 cd ticketing-system
 ```
 
