@@ -43,7 +43,7 @@ This project is **free to use** and open-source. Feel free to contribute or modi
 ## Screenshot  
 
 <p align="center">
-  <img src="screenshot.png?text=Project+Screenshot" alt="Project Screenshot">
+  <img src="screensot.png?text=Project+Screenshot" alt="Project Screenshot">
 </p>
 
 ---
